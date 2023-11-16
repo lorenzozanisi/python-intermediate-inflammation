@@ -1,5 +1,4 @@
 """Module containing models representing patients and their data.
-
 The Model layer is responsible for the 'business logic' part of the software.
 
 Patients' data is held in an inflammation table (2D array) where each row contains 
